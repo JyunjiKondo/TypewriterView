@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TypewriterView">
+        <attr name="textSize" format="float"/>
+        <attr name="textColor" format="color"/>
+        <attr name="typingInterval" format="integer"/>
+        <attr name="startDelay" format="integer"/>
+    </declare-styleable>
+</resources>
