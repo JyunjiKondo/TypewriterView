@@ -3,6 +3,19 @@ TypewriterView - Text typing effect view
 
 [![demo video](http://img.youtube.com/vi/HjTfJB4JIN8/0.jpg)](https://www.youtube.com/watch?v=HjTfJB4JIN8)
 
+# Installation
+
+You can simply declare the followings as dependency in your build.gradle file.
+```Gradle
+repositories {
+  maven { url 'http://jyunjikondo.github.io/TypewriterView/library/repository' }
+}
+
+dependencies {
+  compile 'com.github.jyunjikondo:typewriterview:1.0.3'
+}
+```
+
 # Custom Attributes
 
 The following custom attributes can be specified.
